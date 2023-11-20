@@ -2,11 +2,13 @@
     {
         "time": "Jan 2023 - Apr 2024",
         "title": "University of Windsor",
+        "summary": "Master of Applied Computing",
         "link": "https://www.uwindsor.ca/"
     },
     {
         "time": "Sep 2016 - Nov 2020",
         "title": "HCM City Univeristy of Technology",
+        "summary": "Bachelor of Engineering in Computer Science",
         "link": "https://hcmut.edu.vn/en"
     }
 ]
