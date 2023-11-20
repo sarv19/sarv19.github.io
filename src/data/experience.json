@@ -1,11 +1,18 @@
 [
     {
         "time": "Feb 2022 - present",
-        "title": "Full-stack Developer",
+        "title": "Full-Stack Developer",
         "link": "https://www.vervio.com.au/",
         "company": "Vervio Digital",
         "summary": "Developed three e-commerce websites for Breville, enhancing functionality with ReactJs, TypeScripts, Hooks, ContextAPI, Storybook, Adobe Experience Manager (AEM), Java, and ElasticSearch. Implemented Agile methodologies, resulting in a 20% reduction in development time and a 30% increase in online sales. Revamped Qantas’ in-flight menu system using ReactJs and AEM, incorporating ReactPDF, NextJs, Express, and Jest for robust testing. Led the initiation phase for Qantas, delivering a compelling demo that secured immediate project booking.",
-        "tags": ["React", "Adobe Experience Manager", "TypeScript", "SCSS", "NextJs", "Java"],
+        "tags": [
+            "React",
+            "Adobe Experience Manager",
+            "TypeScript",
+            "SCSS",
+            "NextJs",
+            "Java"
+        ],
         "projects": [
             {
                 "name": "Brevile",
@@ -23,11 +30,20 @@
     },
     {
         "time": "Oct 2020 - Feb 2022",
-        "title": "Full-stack Developer",
+        "title": "Full-Stack Developer",
         "link": "https://netcompany.com/",
         "company": "Netcompany",
         "summary": "Developed and implemented new features, effectively resolving bugs in Sedex’s microservices architecture. Spearheaded a front-end transformation for Sedex, replacing an outdated Angular interface with ReactJs and Material UI. Demonstrated exceptional teamwork with a diverse, multinational team via Teams, Jira, and Confluence. Led and actively participated in all phases of development for Adstream (now Extreme Reach), from client consultations to ongoing system maintenance. Employed testing tools like Selenium and Jenkins for seamless CI/CD integration, ensuring a robust development pipeline.",
-        "tags": ["React", "Angular", "Java", "PostgreSQL", "ElasticSearch", "RabbitMQ", "AWS", "Jenkins"],
+        "tags": [
+            "React",
+            "Angular",
+            "Java",
+            "PostgreSQL",
+            "ElasticSearch",
+            "RabbitMQ",
+            "AWS",
+            "Jenkins"
+        ],
         "projects": [
             {
                 "name": "Sedex",

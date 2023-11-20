@@ -5,14 +5,14 @@ const About = () => {
         <Element className="about" name='about'>
             <div className='section-title'>About</div>
             <p>
-                Full-stack engineer with a passion for turning coffee into code,
-                creating digital wonders, and making bugs disappear like magic! 🔮💻☕ #CodeSorcerer
+            I'm a full-stack engineer, currently doing my master's degree.
+            I love turning coffee into code and making digital things work smoothly.
+            I enjoy creating websites where everything just clicks, from how it looks to how it runs.
             </p>
             <p>
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                Aenean commodo ligula eget dolor. Aenean massa.
-                Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+                When I'm not deep into coding, you'll find me watching movies, playing guitar,
+                and getting lost in food travel videos.
+                These hobbies keep me relaxed and bring a bit of fun to my tech-filled world.
             </p>
         </Element>
     )
