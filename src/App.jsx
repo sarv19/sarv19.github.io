@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import About from "./components/About"
 import Experience from "./components/Experience"
 import Header from "./components/Header"
@@ -6,9 +7,26 @@ import experiences from "./data/experience.json";
 import projects from "./data/project.json";
 import education from "./data/education.json";
 
-function App() {  
+function App() {
+  const [cursorPosition, setCursorPosition] = useState({ x: 0, y: 0 });
+
+  useEffect(() => {
+    const updateCursorPosition = (e) => {
+      setCursorPosition({ x: e.clientX, y: e.clientY });
+    };
+
+    document.addEventListener('mousemove', updateCursorPosition);
+
+    return () => {
+      document.removeEventListener('mousemove', updateCursorPosition);
+    };
+  }, []);
+
   return (
     <div className="main-body">
+      <div className="aura" style={{ left: cursorPosition.x, top: cursorPosition.y }}>
+        {/* <div ></div> */}
+      </div>
       <div className="main-body-left">
         <Header />
         <SocialIcons />
