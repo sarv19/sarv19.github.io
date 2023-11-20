@@ -137,12 +137,18 @@
     }
 
     &-resume {
-        margin-top: 3rem;
+        margin-top: 1rem;
+        display: block;
         text-decoration: none;
         font-size: 16px;
         color: $text-main;
         font-weight: 600;
-
+        
+        @media (min-width: 1024px) {
+            padding: 0 20px;
+            margin-top: 3rem;
+        }
+        
         svg {
             width: 16px;
             height: 16px;
