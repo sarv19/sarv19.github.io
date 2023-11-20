@@ -22,7 +22,7 @@ function App() {
         <Experience
           experiences={experiences}
           text="View Full Resume"
-          link="/SarahVo_Resume.pdf"
+          link="/static/SarahVo_Resume.pdf"
           anchor="experience"
         />
         <Experience
