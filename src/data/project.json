@@ -1,0 +1,23 @@
+[
+    {
+        "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/05/joseph-barrientos-49318-unsplash-e1558728034701.jpg?resize=1500%2C1000&ssl=1",
+        "title": "Serverless Image Handler",
+        "link": "https://github.com/sarv19/serverless-image-processing",
+        "summary": "Architected and implemented a scalable serverless image processing solution on AWS, utilizing Lambda, S3, CloudFront, API Gateway, Rekognition, and Secrets Manager for enhanced image handling capabilities. Optimized image processing workflows with NodeJs to ensure efficiency and seamless integration, delivering high-performance results. Orchestrated the AWS CloudFormation deployment process, simplifying setup and maintenance, and authored user-friendly documentation to facilitate onboarding and configuration understanding.",
+        "tags": ["AWS CloudFormation", "CloudFront", "Lambda", "S3", "API Gateway"]
+    },
+    {
+        "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/05/joseph-barrientos-49318-unsplash-e1558728034701.jpg?resize=1500%2C1000&ssl=1",
+        "title": "Personal Porfolio",
+        "link": "https://github.com/sarv19/serverless-image-processing",
+        "summary": "A portfolio site with React and Vite",
+        "tags": ["React", "Vite", "Styled Components", "SASS"]
+    },
+    {
+        "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/05/joseph-barrientos-49318-unsplash-e1558728034701.jpg?resize=1500%2C1000&ssl=1",
+        "title": "Smart Diet",
+        "link": "https://github.com/sarv19/sarv19.github.io",
+        "summary": "Led a team in developing a lightweight application to assist individuals with dietary restrictions, utilizing Next.js for server-side rendering and Java with Spring Boot for the backend. Integrated MySQL, Firebase, and Algolia for effective data storage and searching functionalities.",
+        "tags": ["NextJs", "Java", "SpringBoot", "MySQL", "Firebase", "Algolia"]
+    }
+]

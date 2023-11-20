@@ -1,0 +1,91 @@
+@import './base.scss';
+
+.heading-block {
+    &-name {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    &-title {
+        font-size: 20px;
+        margin-top: 12px;
+    }
+
+    &-summary {
+        font-size: 16px;
+        margin-top: 16px;
+        color: $text-sub;
+    }
+
+    &-actions {
+        display: none;
+
+        @media (min-width: 1024px) {
+            margin-top: 4rem;
+            display: block;
+        }
+    }
+}
+
+.action-item {
+    display: block;
+    text-decoration: none;
+    color: $text-sub;
+    padding: 0.75rem 0;
+    display: flex;
+    font-size: 12px;
+    align-items: center;
+    
+    &-dash {
+        transition-property: all;
+        transition-timing-function: cubic-bezier(.4,0,.2,1);
+        transition-duration: .15s;
+
+        display: block;
+        width: 2rem;
+        background-color: rgb(71 85 105);
+        margin-right: 1rem;
+        height: 1px;
+    }
+    
+    .active, &:hover {
+        color: $text-main;
+        .action-item-dash {
+            width: 4rem;
+            background-color: rgb(226 232 240);
+        }
+    }
+}
+
+.active{
+    color: $text-main;
+    .action-item-dash {
+        width: 4rem;
+        background-color: rgb(226 232 240);
+    }
+}
+
+.social-icons {
+    margin-top: 2rem;
+    display: flex;
+
+    @media (min-width: 1024px) {
+
+    }
+
+    &-item {
+        font-size: .75rem;
+        line-height: 1rem;
+        margin-right: 1.25rem;
+
+        svg {
+            width: 1.5rem;
+            height: 1.5rem;
+            color: $text-sub;
+
+            :hover {
+                color: $text-main;
+            }
+        }
+    }
+}
