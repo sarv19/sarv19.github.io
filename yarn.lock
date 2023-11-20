@@ -288,10 +288,73 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
+"@esbuild/android-arm@0.19.6":
+  version "0.19.6"
+
+"@esbuild/android-arm64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/android-x64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/darwin-arm64@0.19.6":
+  version "0.19.6"
+  resolved "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.19.6.tgz"
+  integrity sha512-91LoRp/uZAKx6ESNspL3I46ypwzdqyDLXZH7x2QYCLgtnaU08+AXEbabY2yExIz03/am0DivsTtbdxzGejfXpA==
+
+"@esbuild/darwin-x64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/freebsd-arm64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/freebsd-x64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-arm@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-arm64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-ia32@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-loong64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-mips64el@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-ppc64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-riscv64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-s390x@0.19.6":
+  version "0.19.6"
+
+"@esbuild/linux-x64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/netbsd-x64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/openbsd-x64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/sunos-x64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/win32-arm64@0.19.6":
+  version "0.19.6"
+
+"@esbuild/win32-ia32@0.19.6":
+  version "0.19.6"
+
 "@esbuild/win32-x64@0.19.6":
   version "0.19.6"
-  resolved "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.19.6.tgz"
-  integrity sha512-OE7yIdbDif2kKfrGa+V0vx/B3FJv2L4KnIiLlvtibPyO9UkgO3rzYE0HhpREo2vmJ1Ixq1zwm9/0er+3VOSZJA==
 
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
@@ -410,10 +473,43 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@rollup/rollup-android-arm-eabi@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-android-arm64@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-darwin-arm64@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.npmjs.org/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.5.0.tgz"
+  integrity sha512-L0/CA5p/idVKI+c9PcAPGorH6CwXn6+J0Ys7Gg1axCbTPgI8MeMlhA6fLM9fK+ssFhqogMHFC8HDvZuetOii7w==
+
+"@rollup/rollup-darwin-x64@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-linux-arm-gnueabihf@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-linux-arm64-gnu@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-linux-arm64-musl@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-linux-x64-gnu@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-linux-x64-musl@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-win32-arm64-msvc@4.5.0":
+  version "4.5.0"
+
+"@rollup/rollup-win32-ia32-msvc@4.5.0":
+  version "4.5.0"
+
 "@rollup/rollup-win32-x64-msvc@4.5.0":
   version "4.5.0"
-  resolved "https://registry.npmjs.org/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.5.0.tgz"
-  integrity sha512-8kdW+brNhI/NzJ4fxDufuJUjepzINqJKLGHuxyAtpPG9bMbn8P5mtaCcbOm0EzLJ+atg+kF9dwg8jpclkVqx5w==
 
 "@types/babel__core@^7.20.4":
   version "7.20.4"
@@ -1354,6 +1450,11 @@ fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   integrity sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==
+
+fsevents@~2.3.2, fsevents@~2.3.3:
+  version "2.3.3"
+  resolved "https://registry.npmjs.org/fsevents/-/fsevents-2.3.3.tgz"
+  integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
 
 function-bind@^1.1.1, function-bind@^1.1.2:
   version "1.1.2"
