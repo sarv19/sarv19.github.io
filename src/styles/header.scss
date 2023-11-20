@@ -82,8 +82,10 @@
             width: 1.5rem;
             height: 1.5rem;
             color: $text-sub;
-
-            :hover {
+        }
+        
+        &:hover {
+            svg {
                 color: $text-main;
             }
         }
