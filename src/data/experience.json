@@ -54,5 +54,19 @@
                 "link": "https://extremereach.com/creative-logistics/"
             }
         ]
+    },
+    {
+        "time": "Mar 2020 - Jun 2020",
+        "title": "Front-End Intern",
+        "link": "https://teko.vn/",
+        "company": "TEKO",
+        "summary": "Contributed to the development of ERP products at Phong Vu Computer by creating user interfaces and implementing logic using ReactJS, Redux, and other technologies. Additionally, played a key role in designing and implementing the front end of the company's product management system, employing ReactJS and RecoilJS. Responsibilities encompassed translating design mock-ups into functional websites and seamlessly integrating server data retrieval with display logic.",
+        "tags": [
+            "React",
+            "Redux",
+            "TypeScript",
+            "SCSS",
+            "RecoilJs"
+        ]
     }
 ]
