@@ -9,14 +9,14 @@
     {
         "image": "/portfolio.png",
         "title": "Personal Porfolio",
-        "link": "https://github.com/sarv19/serverless-image-processing",
+        "link": "https://github.com/sarv19/sarv19.github.io",
         "summary": "A sleek and contemporary portfolio website that seamlessly blends simplicity with a futuristic design aesthetic. Developed using the robust technologies of React and Vite for dynamic and user-friendly web experiences.",
         "tags": ["React", "Vite", "Styled Components", "SASS"]
     },
     {
         "image": "/smart-diet.png",
         "title": "Smart Diet",
-        "link": "https://github.com/sarv19/sarv19.github.io",
+        "link": "https://github.com/sarv19/ASE-smart-diet-frontend",
         "summary": "Led a team in developing a lightweight application to assist individuals with dietary restrictions, utilizing Next.js for server-side rendering and Java with Spring Boot for the backend. Integrated MySQL, Firebase, and Algolia for effective data storage and searching functionalities.",
         "tags": ["NextJs", "Java", "SpringBoot", "MySQL", "Firebase", "Algolia"]
     }
