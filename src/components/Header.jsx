@@ -12,6 +12,7 @@ const Header = () => {
                 <ActionItem name="ABOUT"/>
                 <ActionItem name="EDUCATION"/>
                 <ActionItem name="EXPERIENCE"/>
+                <ActionItem name="CERTIFICATES"/>
                 <ActionItem name="PROJECTS"/>
             </div>
         </div>

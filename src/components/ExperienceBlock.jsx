@@ -1,5 +1,5 @@
 const ExperienceBlock = ({experience}) => {
-    const {time, image, title, link, company, summary, tags, projects} = experience;
+    const {time, image, title, subTitle, link, company, summary, tags, projects} = experience;
     
     return (
         <a className="experience-block" href={link} target="_blank">
@@ -16,6 +16,9 @@ const ExperienceBlock = ({experience}) => {
                             </path>
                         </svg>
                     }
+                </div>
+                <div className="experience-block-right-subTitle">
+                    {subTitle}
                 </div>
                 <div className="experience-block-right-summary">
                     {summary}

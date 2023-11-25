@@ -6,6 +6,7 @@ import SocialIcons from "./components/SocialIcons"
 import experiences from "./data/experience.json";
 import projects from "./data/project.json";
 import education from "./data/education.json";
+import certificates from "./data/certificates.json";
 
 function App() {
   const [cursorPosition, setCursorPosition] = useState({ x: 0, y: 0 });
@@ -42,6 +43,10 @@ function App() {
           text="View Full Resume"
           link="/SarahVo_Resume.pdf"
           anchor="experience"
+        />
+        <Experience
+          experiences={certificates}
+          anchor="certificates"
         />
         <Experience
           experiences={projects}

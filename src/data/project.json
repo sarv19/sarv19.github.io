@@ -3,14 +3,14 @@
         "image": "/serverless.png",
         "title": "Serverless Image Handler",
         "link": "https://github.com/sarv19/serverless-image-processing",
-        "summary": "Architected and implemented a scalable serverless image processing solution on AWS, utilizing Lambda, S3, CloudFront, API Gateway, Rekognition, and Secrets Manager for enhanced image handling capabilities. Optimized image processing workflows with NodeJs to ensure efficiency and seamless integration, delivering high-performance results. Orchestrated the AWS CloudFormation deployment process, simplifying setup and maintenance, and authored user-friendly documentation to facilitate onboarding and configuration understanding.",
+        "summary": "Designed and deployed a scalable serverless image processing solution on AWS, optimizing workflows with NodeJs for high performance. Streamlined AWS CloudFormation deployment for simplified setup and authored user-friendly documentation for easy onboarding and configuration.",
         "tags": ["AWS CloudFormation", "CloudFront", "Lambda", "S3", "API Gateway"]
     },
     {
         "image": "/portfolio.png",
         "title": "Personal Porfolio",
         "link": "https://github.com/sarv19/serverless-image-processing",
-        "summary": "A portfolio site with React and Vite",
+        "summary": "A sleek and contemporary portfolio website that seamlessly blends simplicity with a futuristic design aesthetic. Developed using the robust technologies of React and Vite for dynamic and user-friendly web experiences.",
         "tags": ["React", "Vite", "Styled Components", "SASS"]
     },
     {
