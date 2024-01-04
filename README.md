@@ -35,4 +35,4 @@ Feedback and suggestions are always welcome! Feel free to open an issue or reach
 
 ## License
 
-The UI design took inspiration from [brittanychiang]('https://brittanychiang.com/') and the website was coded by me. Everyone is welcomed to use the code, just remember to credit brittanychiang and me.
+The UI design took inspiration from [brittanychiang]('https://brittanychiang.com/') and the website's code was written by me. Everyone is welcomed to use the code, just remember to credit brittanychiang and me.
