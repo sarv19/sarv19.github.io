@@ -1,6 +1,17 @@
 [
     {
-        "time": "Feb 2022 - present",
+        "time": "Jan 2024 - present",
+        "title": "Software Engineer Intern",
+        "link": "https://www.knowd.ai/",
+        "company": "Knowd",
+        "tags": [
+            "React",
+            "NextJs",
+            "Tailwinds"
+        ]
+    },
+    {
+        "time": "Feb 2022 - Dec 2023",
         "title": "Full-Stack Developer",
         "link": "https://www.vervio.com.au/",
         "company": "Vervio Digital",
